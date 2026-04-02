@@ -1,6 +1,6 @@
 # NYC Public School SAT Score Analysis
 
-This project analyzes SAT performance across New York City public schools and turns a simple one-off script into a more polished exploratory data analysis project. The main showcase is now a Jupyter notebook so reviewers can see the code, the findings, and the visuals together in one place on GitHub.
+This project analyzes SAT performance across New York City public schools in a single Jupyter notebook so reviewers can see the code, findings, and visuals together in one place on GitHub.
 
 ## Highlights
 
@@ -33,7 +33,6 @@ This project analyzes SAT performance across New York City public schools and tu
 ```text
 nyc-school-test/
 ├── NYC_School_SAT_Analysis.ipynb
-├── nyc-school-test.py
 ├── schools.csv
 ├── README.md
 ├── requirements.txt
@@ -72,10 +71,10 @@ nyc-school-test/
 
 ```bash
 pip install -r requirements.txt
-python nyc-school-test.py
+jupyter notebook NYC_School_SAT_Analysis.ipynb
 ```
 
-You can also open `NYC_School_SAT_Analysis.ipynb` in Jupyter or preview it directly on GitHub.
+You can also preview `NYC_School_SAT_Analysis.ipynb` directly on GitHub.
 
 ## Example Insights
 
