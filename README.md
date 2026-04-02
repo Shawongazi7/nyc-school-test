@@ -92,10 +92,3 @@ You can also open `NYC_School_SAT_Analysis.ipynb` in Jupyter or preview it direc
 ### Average Total SAT by Borough
 
 ![Average Total SAT by Borough](plots/borough_average_sat.png)
-
-## Why This Version Is Stronger
-
-- Cleaner analysis code with reusable functions
-- Structured exports for tables and charts
-- Better documentation and project organization
-- More portfolio-ready presentation than the original script-only version
