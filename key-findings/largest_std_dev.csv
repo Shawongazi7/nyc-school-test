@@ -1,2 +1,2 @@
-,borough,average_SAT,std_SAT,num_schools
-2,Manhattan,1340.13,230.29,89
+borough,num_schools,average_math,average_reading,average_writing,average_total_SAT,median_total_SAT,std_total_SAT,average_percent_tested
+Manhattan,89,455.89,444.93,439.31,1340.13,1284.0,230.29,71.39

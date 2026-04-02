@@ -1,0 +1,6 @@
+borough,num_schools,average_math,average_reading,average_writing,average_total_SAT,median_total_SAT,std_total_SAT,average_percent_tested
+Staten Island,10,486.2,478.5,474.3,1439.0,1382.0,222.3,66.11
+Queens,69,462.36,443.26,439.86,1345.48,1290.0,195.25,69.31
+Manhattan,89,455.89,444.93,439.31,1340.13,1284.0,230.29,71.39
+Brooklyn,109,416.4,410.76,403.09,1230.26,1186.0,154.87,62.64
+Bronx,98,404.36,402.52,395.85,1202.72,1190.0,150.39,58.65
